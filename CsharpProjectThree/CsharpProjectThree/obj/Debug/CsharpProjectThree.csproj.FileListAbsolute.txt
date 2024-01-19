@@ -1,0 +1,11 @@
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\bin\Debug\CsharpProjectThree.exe.config
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\bin\Debug\CsharpProjectThree.exe
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\bin\Debug\CsharpProjectThree.pdb
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.csprojResolveAssemblyReference.cache
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.Login.resources
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.Properties.Resources.resources
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.csproj.GenerateResource.Cache
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.exe
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.pdb
+c:\users\tharuux\documents\visual studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.dashboard.resources
+C:\Users\THARUUX\Documents\Visual Studio 2012\Projects\CsharpProjectThree\CsharpProjectThree\obj\Debug\CsharpProjectThree.Entry.resources
